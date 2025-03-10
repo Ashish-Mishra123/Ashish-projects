@@ -1,2 +1,2 @@
 # Ashish-projects
-This are some projects I've created! 😁😁
+This is a repository for the projects created by me! 😁😁
